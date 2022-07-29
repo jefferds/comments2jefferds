@@ -1,3 +1,3 @@
-# Blog's comments
+# Comentários
 
-Repo to keep the comments.
+Repositório de comentários.
